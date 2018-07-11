@@ -10,8 +10,6 @@ public class Tester {
 
 		WebDriver driver = new BrowserDriver("CHROME");
 
-		System.out.println(driver.toString());
-
 	}
 
 }
